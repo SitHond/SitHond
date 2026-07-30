@@ -10,11 +10,11 @@
 
 | Проект | Описание | Технологии |
 | :--- | :--- | :--- |
-| **[wayland-screen-translator](https://github.com/SitHond/wayland-screen-translator)** | Инструмент для «перевода» экрана (вероятно, оверлейный перевод интерфейса) под Wayland. | <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++"> |
+| **[wayland-screen-translator](https://github.com/SitHond/wayland-screen-translator)** | Инструмент для «перевода» экрана под Wayland. | <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++"> |
 | **[Calculator_by_shond](https://github.com/SitHond/Calculator_by_shond)** | Простой, но функциональный калькулятор — отличный пример базовой логики приложений на C#. | <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" alt="C#"> |
-| **[ProtonTreking](https://github.com/SitHond/ProtonTreking)** | Проект на Python (возможно, игра или симулятор). Название интригует! 🚀 | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> |
+| **[ProtonTreking](https://github.com/SitHond/ProtonTreking)** | Прилежание позволяет запускать другие exe файлы в одном префиксе proton что и игра из steam  🚀 | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> |
 | **[ShikiRIP Cinema](https://github.com/SitHond/shikicinema)** | браузерное расширение, возвращающее возможность смотреть аниме онлайн на сайте Shikimori, с поддержкой учета просмотра и возможностью добавления видео. | |
-| **[TestBotJs_Y](https://github.com/SitHond/TestBotJs_Y)** | Экспериментальный бот на JavaScript. Возможно, для Discord или Telegram. | <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"> |
+| **[TestBotJs_Y](https://github.com/SitHond/TestBotJs_Y)** | Экспериментальный бот на JavaScript для Discord | <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"> |
 
 > *Ребята, заглядывайте в репозитории — там могут быть звёздочки ✨ и полезные идеи.*
 
